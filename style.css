@@ -10,7 +10,7 @@
   /* background-image: linear-gradient(rgba(4, 9, 30, 1), rgba(4, 9, 30, 0.7)),
     url(./eduford_img/pexels-gintarė-kairaitytė-17178100.jpg); */
     background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)),
-    url(./eduford_img/WhatsApp\ Image\ 2025-01-26\ at\ 23.13.13_dcada9e9.jpg);
+    url("./eduford_img/header.jpg");
   background-position: center;
   background-size: cover;
   position: relative;
@@ -646,7 +646,7 @@ span.text {
   height: 50vh;
   width: 100%;
   background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)),
-    url(./eduford_img/background.jpg);
+    url("./eduford_img/background.jpg");
   background-position: center;
   background-size: cover;
   text-align: center;
